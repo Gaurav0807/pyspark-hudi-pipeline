@@ -1,0 +1,9 @@
+Id,ParentId,UUID,SomeString,SomeUrl,SomeEmail,SomeLat,SomeLon,SomeInt,SomeReal,SomeDate,SomeBoolean,SomeCountry,testing,MixedStringNumber
+1,62,123e4567-e89b-12d3-a456-426655440000,abcdef,http://www.google.com,foo@bar.com,19.56972782,158.6507522,5671,3684.472507,2018-05-31,true,AL,1,21
+2,77,123e4567-e89b-12d3-a456-426655440000,,https://www.kaggle.com,test1@test.com,,-4.628925859,,6655.542889,2018-04-19,true,AL,2,
+3,45,123e4567-e89b-12d3-a456-426655440000,,https://www.kaggle.com,foo@bar.com,25.76069708,-178.2982744,,7603.611651,2018-05-10,true,AL,3,21
+4,38,123e4567-e89b-12d3-a456-426655440000,abcdef,https://www.kaggle.com,test1@test.com,10.89631338,-114.7103261,,8137.959125,2018-04-27,true,AL,4,
+5,22,123e4567-e89b-12d3-a456-426655440000,abcdef,https://www.kaggle.com,foo@bar.com,-44.32664944,99.71566365,,8521.891842,2018-04-04,true,AL,5,0.4080873354
+6,81,123e4567-e89b-12d3-a456-426655440000,,https://www.kaggle.com,foo@bar.com,0.2144721802,-44.46143358,4536,4463.556093,2018-07-15,false,AL,5,22
+6,81,123e4567-e89b-12d3-a456-426655440000,,https://www.kaggle.com,foo@bar.com,0.2144721802,-44.46143358,4536,4463.556093,2018-07-16,false,AL,6,22
+3,1000,,,,,,,,,2026-01-22,,,
